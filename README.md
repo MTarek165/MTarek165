@@ -9,7 +9,7 @@ I am a software engineer with a good experience at computer science foundations,
  - **Tools**: Git, Postman.
 ## 💼 Internships
 
-- **.Net developer internship at DewanSoft (March 2024 - June 2024)**
+**.Net developer internship at DewanSoft (March 2024 - June 2024)**
   
  - Worked with a team on a Cloud Service Provider using Blazor and Asp. Net Core.
  - Integrated a third party tool called Piranha CMS to create a dynamic home Interface
