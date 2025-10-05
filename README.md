@@ -6,7 +6,7 @@ Ex-SWE Intern @ Fawry | Ex-SWE Intern @ DewanSoft | Open Source Contributor @ Ke
 
 ##  Experience
 - **Fawry** – Software Engineering Intern, worked on e-commerce microservices based app gaining experience at spring boot and angular.  
-- **DewanSoft** – Software Engineering Intern, worked on Content management system using .Net and Blazor.  
+- **DewanSoft** – Software Engineering Intern, worked on Content management system app using .Net and Blazor.  
 
 ---
 
@@ -15,10 +15,10 @@ I actively contribute to [Kestra](https://github.com/kestra-io/kestra), focusing
 
 | Repository | Description | Type | PR / Issue | Status |
 |------------|-------------|------|------------|--------|
-| [kestra](https://github.com/kestra-io/kestra) | Introduced JUnit test support for triggers module | Test / Feature | [PR #11579](https://github.com/kestra-io/kestra/pull/11579) | ✅ Merged |
-| [kestra](https://github.com/kestra-io/kestra) | Added warning logs for mismatched Parent-Subflow inputs | Bugfix / Logging | [PR #11431](https://github.com/kestra-io/kestra/pull/11431) | ✅ Merged |
-| [kestra](https://github.com/kestra-io/kestra) | Fixed `ForEach` plugin `taskrun.iteration` property issue | Bugfix / Core | [PR #11409](https://github.com/kestra-io/kestra/pull/11409) | ✅ Merged |
-| [kestra](https://github.com/kestra-io/kestra) | Exclude current namespace when listing keys with inheritance | Bugfix / Core | [PR #11180](https://github.com/kestra-io/kestra/pull/11180) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Introduced JUnit test support for triggers module | Feature | [PR #11579](https://github.com/kestra-io/kestra/pull/11579) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Added warning logs for mismatched Parent-Subflow inputs | Feature | [PR #11431](https://github.com/kestra-io/kestra/pull/11431) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Fixed `ForEach` plugin `taskrun.iteration` property issue | Fix | [PR #11409](https://github.com/kestra-io/kestra/pull/11409) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Exclude current namespace when listing keys with inheritance | Fix | [PR #11180](https://github.com/kestra-io/kestra/pull/11180) | ✅ Merged |
 
 ---
 
@@ -33,7 +33,7 @@ I actively contribute to [Kestra](https://github.com/kestra-io/kestra), focusing
 ##  Technologies & Tools
 - **Languages:** Java, C#, JavaScript, TypeScript  
 - **Frameworks:** Spring Boot, ASP.NET Core, Angular, Blazor  
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Databases:** PostgreSQL, MySQL, Redis, SQL Server
 - **Testing:** JUnit, Mockito, RestAssured and Test Containers
 - **DevOps & Tools:** Docker, Git, GitHub Actions, Gradle, Maven  
 
