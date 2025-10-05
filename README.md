@@ -1,24 +1,10 @@
-# Hello, I am Mustafa Tarek.
-I am a software engineer with a good experience at computer science foundations, software development and problem solving.
+## 🌐 Open Source Contributions — **Kestra**
 
-## 🔧 Technologies & Tools
+I’m an active contributor to the Kestra project, contributing across backend core and testing. Below are selected merged pull requests:
 
- - **Languages**:  C#, C++, JavaScript, TypeScript, Java.
- - **Frameworks**: Asp.Net Core, Angular, Blazor, EntityFrameWork Core.
- - **Tools**: Git, Postman.
-## 💼 Internships
-
-**.Net developer internship at DewanSoft (March 2024 - June 2024)**
-  
- - Worked with a team on a Cloud Service Provider using Blazor and Asp. Net Core.
- - Integrated a third party tool called Piranha CMS to create a dynamic home Interface
-  using Content Management Systems (CMS).
- - Collaborated with the backend team at implementing Authentication mechanism using
-  JWT tokens, designing APIs and creating endpoints using ASP. Net Core Web API.
- - Created various pages such as Account and Billing pages using Blazor and Bootstrap
-
-## 🏆 Achievements
-
-- **Qualified to ECPC 2021 & 2023**
-
-
+| Repository | Description | Type | PR / Issue | Status |
+|------------|-------------|------|------------|--------|
+| [kestra](https://github.com/kestra-io/kestra) | Introduced JUnit test support for triggers module |  Feature | [PR #11579](https://github.com/kestra-io/kestra/pull/11579) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Added warning logs for mismatched Parent-Subflow inputs | Feature | [PR #11431](https://github.com/kestra-io/kestra/pull/11431) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Fixed `ForEach` plugin `taskrun.iteration` property issue | Fix | [PR #11409](https://github.com/kestra-io/kestra/pull/11409) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Exclude current namespace when listing keys with inheritance | Fix | [PR #11180](https://github.com/kestra-io/kestra/pull/11180) | ✅ Merged |
