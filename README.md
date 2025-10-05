@@ -1,4 +1,4 @@
-## 🌐 Open Source Contributions — **Kestra**
+##  Open Source Contributions — **Kestra**
 
 I’m an active contributor to the Kestra project, contributing across backend core and testing. Below are selected merged pull requests:
 
