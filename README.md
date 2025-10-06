@@ -19,6 +19,7 @@ I actively contribute to [Kestra](https://github.com/kestra-io/kestra), focusing
 | [kestra](https://github.com/kestra-io/kestra) | Added warning logs for mismatched Parent-Subflow inputs | Feature | [PR #11431](https://github.com/kestra-io/kestra/pull/11431) | ✅ Merged |
 | [kestra](https://github.com/kestra-io/kestra) | Fixed `ForEach` plugin `taskrun.iteration` property issue | Fix | [PR #11409](https://github.com/kestra-io/kestra/pull/11409) | ✅ Merged |
 | [kestra](https://github.com/kestra-io/kestra) | Exclude current namespace when listing keys with inheritance | Fix | [PR #11180](https://github.com/kestra-io/kestra/pull/11180) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Added test coverage for CLI commands with no repository configs | Fix | [PR #11742](https://github.com/kestra-io/kestra/pull/11742) | ✅ Merged |
 
 ---
 
