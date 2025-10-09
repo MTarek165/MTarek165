@@ -1,6 +1,6 @@
 #  Hi, I'm Mustafa Tarek
 
-Ex-SWE Intern @ Fawry | Ex-SWE Intern @ DewanSoft | Open Source Contributor @ Kestra
+Ex-SWE Intern @ Fawry | Ex-SWE Intern @ DewanSoft | Open Source Contributor 
 
 ---
 
