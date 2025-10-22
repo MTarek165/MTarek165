@@ -16,11 +16,14 @@ I actively contribute to [Kestra](https://github.com/kestra-io/kestra), focusing
 | Repository | Description | Type | PR / Issue | Status |
 |------------|-------------|------|------------|--------|
 | [kestra](https://github.com/kestra-io/kestra) | Introduce JUnit test support for triggers module | Feature | [PR #11579](https://github.com/kestra-io/kestra/pull/11579) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Store attempts for flowable tasks | Feature | [PR #12153](https://github.com/kestra-io/kestra/pull/12153) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Add new execution kind filter | Feature | [PR #11883](https://github.com/kestra-io/kestra/pull/11883) | ✅ Merged |
 | [kestra](https://github.com/kestra-io/kestra) | Add warning logs for mismatched Parent-Subflow inputs | Feature | [PR #11431](https://github.com/kestra-io/kestra/pull/11431) | ✅ Merged |
 | [kestra](https://github.com/kestra-io/kestra) | Add test coverage for CLI commands with no repository configs | Feature | [PR #11742](https://github.com/kestra-io/kestra/pull/11742) | ✅ Merged |
-| [kestra](https://github.com/kestra-io/kestra) | Add new execution kind filter | Feature | [PR #11883](https://github.com/kestra-io/kestra/pull/11883) | ✅ Merged |
 | [kestra](https://github.com/kestra-io/kestra) | Fix `ForEach` plugin `taskrun.iteration` property issue | Fix | [PR #11409](https://github.com/kestra-io/kestra/pull/11409) | ✅ Merged |
 | [kestra](https://github.com/kestra-io/kestra) | Exclude current namespace when listing keys with inheritance | Fix | [PR #11180](https://github.com/kestra-io/kestra/pull/11180) | ✅ Merged |
+| [kestra](https://github.com/kestra-io/kestra) | Adjust date property of PublicHoliday condition | Fix | [PR #11605](https://github.com/kestra-io/kestra/pull/11605) | ✅ Merged |
+
 
 
 
